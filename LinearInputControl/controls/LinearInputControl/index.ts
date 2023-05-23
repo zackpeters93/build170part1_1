@@ -62,7 +62,7 @@
     
             //setting the max and min values for the control.
             this.inputElement.setAttribute("min", "1");
-            this.inputElement.setAttribute("max", "1000");
+            this.inputElement.setAttribute("max", "100");
             this.inputElement.setAttribute("class", "linearslider");
             this.inputElement.setAttribute("id", "linearrangeinput");
     
